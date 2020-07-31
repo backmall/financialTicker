@@ -1,0 +1,68 @@
+
+            header{
+                text-align: center;
+                font-size: x-large;
+            }
+            hr{
+                width: 50%;
+            }
+            body{
+                background-color:rgb(226, 221, 221);
+            }
+            .table1 {    
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                width: 40%;     
+                
+            }
+            .chart1{
+                display: block;
+                margin-left: auto;
+                margin-right: auto;
+                text-align: center;
+                 
+
+            }
+            table {
+                width: 100%;
+                background: #f5f5f5;
+                border-collapse: collapse;
+                box-shadow: inset 0 1px 0 #fff;
+                font-size: 20px;
+                line-height: 24px;
+                margin: 30px auto;
+                text-align: left;
+                
+            }
+            th {
+                border: 1px solid black; 
+                background-color:#acb6bd;
+                color: white;
+            }
+            tr {
+                border: 1px solid black; 
+            }
+            td {
+                border: 1px solid black; 
+            }
+            
+            .redFlare{
+                background-color: rgb(250, 86, 86);
+                transition: background-color 0.5s linear;
+            }
+            .greenFlare{
+                background-color: rgb(54, 168, 54);
+                transition: background-color 0.5s linear;
+            }
+            .whiteFlare{
+                background-color: white;
+                transition: background-color 0.5s linear;
+            }
+            canvas{
+                border: solid black;
+                
+                margin-top: 10px;
+                position: relative;
+            }
+     
