@@ -23,4 +23,8 @@ Any changes made to _.ts_ files should be compiled to _.js_ thanks to include st
 *stockEntry* - script to format data for easier use  
 *charts* - script to manage and access charts data  
 *deltaBlocksHandler* - script to perform all updates to data and loop loading/sending data to the website  
-*visualiser* - script to manage all changes to visual side of the website
+*visualiser* - script to manage all changes to visual side of the website  
+
+### Preview
+![GitHub Logo](/preview.png)
+
