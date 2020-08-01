@@ -1,7 +1,8 @@
 # financialTicker
 
 Typescript website parsing csv files and displaying live changes in a table and a graph.  
-Only basic design implemented as the main purpose of the task was to implement functionality.
+Only basic design implemented as the main purpose of the task was to implement functionality.  
+[DEMO](https://backmall.github.io/financialTicker/) -available here (github pages not always working with csv files)
 
 ### Setup  
 For the purpose of development and testing Visual Studio Code has been used with _live-server_ extension.  
